@@ -1,0 +1,1 @@
+console.log('app1.js in dir1 Sk');
